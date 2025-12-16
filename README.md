@@ -5,7 +5,7 @@ I am a passionate Embedded Systems Engineer with hands-on experience in:
 - **Microcontrollers:** PIC16F877A, STM32F401RE, 8051  
 - **Communication Protocols:** UART, SPI, I2C, CAN  
 - **Firmware Skills:** Bare-metal programming, timers, PWM, interrupts, ADC  
-- **Projects:** GSM-based production line monitoring, RTC + LCD interfacing, CAN communication, Ultrasonic sensor interface, USB implementation  
+- **Projects:** GSM-based production line monitoring, Timer + LCD interfacing, CAN communication, Ultrasonic sensor interface, USB implementation  
 
 ---
 
