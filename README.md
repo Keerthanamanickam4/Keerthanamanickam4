@@ -11,8 +11,8 @@ I am a passionate Embedded Systems Engineer with hands-on experience in:
 
 ##  GitHub Projects
 
-- [CAN Communication implementation with ESP32+Ultrasonic Sensor](https://github.com/Keerthanamanickam4/embedded-projects-portfolio/tree/main/CAN_Implementation_using_ESP32)
-- [Production Line Monitoring – PIC16F877A + GSM + Timer+ IR Sensor](https://github.com/Keerthanamanickam4/embedded-projects-portfolio/tree/main/Production_Line_Monitoring_System)
+- [CAN Communication implementation with ESP32+Ultrasonic Sensor](https://github.com/Keerthanamanickam4/Embedded_Projects_Portfolio/tree/main/Projects/CAN_Implementation_using_ESP32)
+- [Production Line Monitoring – PIC16F877A + GSM + Timer+ IR Sensor](https://github.com/Keerthanamanickam4/Embedded_Projects_Portfolio/tree/main/Projects/Production_Line_Monitoring_System)
 - [USB Implementation – PIC32CK2051GC01144 + MPLAB X IDE + MCC](./usb-implementation)
 - [STM32 Bare-metal Drivers – GPIO, UART, ADC,SPI, I2C](https://github.com/Keerthanamanickam4/embedded-projects-portfolio/tree/main/MCU%20Concepts/STM32F401RE)
 
